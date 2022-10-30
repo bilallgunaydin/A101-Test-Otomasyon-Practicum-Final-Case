@@ -59,6 +59,23 @@ I made 2 Test Cases on the website https://www.hepsiburada.com/
 ![3](https://user-images.githubusercontent.com/21973124/198894750-4da36cac-f357-482c-a95d-33919d2fe761.jpg)
 
 
+## 🏃Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/bilallgunaydin/A101-Test-Otomasyon-Practicum-Final-Case.git
+```
+
+## ![test-dry-run-29014081](https://user-images.githubusercontent.com/21973124/198896684-430908ac-3c2d-40da-9b15-2759db05a707.jpg)  Start the Test
+
+```bash
+  Run finalProject.xml file
+```
+
+
+
+
 ## ![pngtree-positive-feedback-line-i](https://user-images.githubusercontent.com/21973124/198895901-dee46283-e1cf-48e0-8fe6-af2d6cfe41c7.jpg) Feedback
 
 If you have any feedback on the project, please contact me at bilallgunaydin@gmail.com.
