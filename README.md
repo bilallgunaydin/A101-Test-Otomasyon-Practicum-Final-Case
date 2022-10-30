@@ -48,7 +48,7 @@ I made 2 Test Cases on the website https://www.hepsiburada.com/
 
     
   
-## ![198895089-b5eb9286-ea72-455a-b51](https://user-images.githubusercontent.com/21973124/198895175-decf7f40-2c4b-4e43-bf11-23cec2be1bc7.png)[Screenshots]
+## ![198895089-b5eb9286-ea72-455a-b51](https://user-images.githubusercontent.com/21973124/198895175-decf7f40-2c4b-4e43-bf11-23cec2be1bc7.png) [Screenshots]
 
 
 
