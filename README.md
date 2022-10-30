@@ -18,14 +18,14 @@ I made 2 Test Cases on the website https://www.hepsiburada.com/
 
 ![selenium](https://user-images.githubusercontent.com/21973124/198895496-06aa962b-f22e-478e-bc86-ce482c513192.png) **Selenium**: Test Automation Tool used to test Website
 
-![Page-Object-Model](https://user-images.githubusercontent.com/21973124/198895585-ba2e72c2-742f-4f88-93fd-65d5e0694f74.png)   **Page Object Model**: It is the architectural structure used in the project.
+![Page-Object-Model](https://user-images.githubusercontent.com/21973124/198896027-6ad45ea7-7ac5-4a5d-ae30-34a7ae5efcda.png)  **Page Object Model**: It is the architectural structure used in the project.
 
 ![png-transparent-leaf-apache-mave](https://user-images.githubusercontent.com/21973124/198895707-3ea65ae1-48fc-4ca3-9e82-87d09a301959.png)  **Maven**: Automation and build tool that is usually used during the compilation of commands on the Java platform.
 
 ![Apache_Log4j_Logo](https://user-images.githubusercontent.com/21973124/198895765-ce802f9b-3d45-45d3-9822-b67622b71ed8.png)  **Log4j**: It is part of Apache Logging Services, a project of the Apache Software Foundation. Log4j is one of the few Java logging frameworks.
 
 
-## ![case-study-icon-0](https://user-images.githubusercontent.com/21973124/198895846-d28ed78a-a552-4c87-a998-aaeb0bb8f2c7.png)  Case Stages
+## ![case-study-icon-0 (1)](https://user-images.githubusercontent.com/21973124/198896091-442fc6f2-91bb-4473-9202-090be768ca3f.png)  Case Stages
 
   Scenario: Adding a product to the cart on Hepsiburada.com
 
