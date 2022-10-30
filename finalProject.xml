@@ -1,0 +1,7 @@
+<suite name="paralelTest" verbose="3" parallel="classes" thread-count="3">
+    <test name="test">
+        <packages>
+            <package name="tests.*"></package>
+        </packages>
+    </test>
+</suite>
