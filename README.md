@@ -14,19 +14,18 @@ I made 2 Test Cases on the website https://www.hepsiburada.com/
 
 ![5968282](https://user-images.githubusercontent.com/21973124/198895378-1a03bc27-0baf-4631-bc85-3ffad86da644.png)  **Java**: The programming language in which the project is written
 
-**TestNG**: Test Authoring Tool used for writing Test Cases and controlling outputs.
+![testng](https://user-images.githubusercontent.com/21973124/198895448-faeb21b7-ddc7-4c72-9f67-90c092d1e7fe.png)   **TestNG**: Test Authoring Tool used for writing Test Cases and controlling outputs.
 
-**Selenium**: Test Automation Tool used to test Website
+![selenium](https://user-images.githubusercontent.com/21973124/198895496-06aa962b-f22e-478e-bc86-ce482c513192.png) **Selenium**: Test Automation Tool used to test Website
 
-**Page Object Model**: It is the architectural structure used in the project.
+![Page-Object-Model](https://user-images.githubusercontent.com/21973124/198895585-ba2e72c2-742f-4f88-93fd-65d5e0694f74.png)   **Page Object Model**: It is the architectural structure used in the project.
 
-**Maven**: Automation and build tool that is usually used during the compilation of commands on the Java platform.
+![png-transparent-leaf-apache-mave](https://user-images.githubusercontent.com/21973124/198895707-3ea65ae1-48fc-4ca3-9e82-87d09a301959.png)  **Maven**: Automation and build tool that is usually used during the compilation of commands on the Java platform.
 
-**Log4j**: It is part of Apache Logging Services, a project of the Apache Software Foundation. Log4j is one of the few Java logging frameworks.
+![Apache_Log4j_Logo](https://user-images.githubusercontent.com/21973124/198895765-ce802f9b-3d45-45d3-9822-b67622b71ed8.png)  **Log4j**: It is part of Apache Logging Services, a project of the Apache Software Foundation. Log4j is one of the few Java logging frameworks.
 
-**Gherkin**: Gherkin is a plain-text language. Designed to be learned by non-programmers
 
-## Case Stages
+## ![case-study-icon-0](https://user-images.githubusercontent.com/21973124/198895846-d28ed78a-a552-4c87-a998-aaeb0bb8f2c7.png)  Case Stages
 
   Scenario: Adding a product to the cart on Hepsiburada.com
 
@@ -59,7 +58,8 @@ I made 2 Test Cases on the website https://www.hepsiburada.com/
 
 ![3](https://user-images.githubusercontent.com/21973124/198894750-4da36cac-f357-482c-a95d-33919d2fe761.jpg)
 
-## Feedback
+
+## ![pngtree-positive-feedback-line-i](https://user-images.githubusercontent.com/21973124/198895901-dee46283-e1cf-48e0-8fe6-af2d6cfe41c7.jpg) Feedback
 
 If you have any feedback on the project, please contact me at bilallgunaydin@gmail.com.
 
