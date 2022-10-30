@@ -12,7 +12,7 @@ I made 2 Test Cases on the website https://www.hepsiburada.com/
 
 
 
-![5968282](https://user-images.githubusercontent.com/21973124/198895329-a76aba60-8906-4e37-9dbe-c8e15375b7b4.png)  **Java**: The programming language in which the project is written
+![5968282](https://user-images.githubusercontent.com/21973124/198895378-1a03bc27-0baf-4631-bc85-3ffad86da644.png)  **Java**: The programming language in which the project is written
 
 **TestNG**: Test Authoring Tool used for writing Test Cases and controlling outputs.
 
