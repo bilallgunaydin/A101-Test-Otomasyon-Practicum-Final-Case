@@ -11,7 +11,8 @@ I made 2 Test Cases on the website https://www.hepsiburada.com/
 ## Used technologies
 
 
-**Java**: The programming language in which the project is written
+
+![5968282](https://user-images.githubusercontent.com/21973124/198895329-a76aba60-8906-4e37-9dbe-c8e15375b7b4.png)  **Java**: The programming language in which the project is written
 
 **TestNG**: Test Authoring Tool used for writing Test Cases and controlling outputs.
 
@@ -48,8 +49,7 @@ I made 2 Test Cases on the website https://www.hepsiburada.com/
 
     
   
-##  ![198895089-b5eb9286-ea72-455a-b51](https://user-images.githubusercontent.com/21973124/198895266-3a1b848f-4db1-41a0-bd3e-1084ec6cfd5e.png)
-Screenshots
+##  ![198895089-b5eb9286-ea72-455a-b51](https://user-images.githubusercontent.com/21973124/198895266-3a1b848f-4db1-41a0-bd3e-1084ec6cfd5e.png)  Screenshots
 
 
 
