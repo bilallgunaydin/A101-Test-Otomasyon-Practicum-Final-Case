@@ -2,9 +2,9 @@
 # https://www.hepsiburada.com/ Test Cases
 
 I made 2 Test Cases on the website https://www.hepsiburada.com/
-![logo]
 
-(https://user-images.githubusercontent.com/21973124/198894726-12e64894-fd88-4d67-a6c9-bccc10ce2902.png)
+
+![logo](https://user-images.githubusercontent.com/21973124/198894726-12e64894-fd88-4d67-a6c9-bccc10ce2902.png)
 
 
 
