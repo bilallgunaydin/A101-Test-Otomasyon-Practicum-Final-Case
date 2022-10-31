@@ -29,6 +29,7 @@ public class Test_With_A_Member extends BaseTest {
         loginPage = new LoginPage(driver);
         loginPage.login();
         logger.info("Giriş Yapıldı.");
+        homePage.checkUser();
     }
 
     @Test(priority = 4)
