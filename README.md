@@ -1,7 +1,9 @@
 
 # https://www.hepsiburada.com/ Test Cases
 
-I made 2 Test Cases on the website https://www.hepsiburada.com/
+I made 2 Test Cases on the website https://www.hepsiburada.com/.  
+Scenario 1) Adding a product to the cart by logging in 
+Scenario 2) Adding the specified product to the cart without user login
 
 
 ![logo](https://user-images.githubusercontent.com/21973124/198894726-12e64894-fd88-4d67-a6c9-bccc10ce2902.png)
@@ -39,7 +41,7 @@ I made 2 Test Cases on the website https://www.hepsiburada.com/
     -The product is selected from 2 different vendors for the selected product and added to the cart.
     -It should be verified on the 'My Cart' page that the selected product has been added correctly.
 
-    1)Adding the specified product to the cart without user login
+    2)Adding the specified product to the cart without user login
     
     -The user visits Hepsiburada.com site.
     -The user selects a product from the list of products displayed as a result of the Search (or a single result may also be returned).
