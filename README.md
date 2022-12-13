@@ -1,7 +1,8 @@
 
 # https://www.hepsiburada.com/ Test Cases
 
-I made 2 Test Cases on the website https://www.hepsiburada.com/.  
+I made 2 test cases according to the following scenarios at www.hepsiburada.com
+
 Scenario 1) Adding a product to the cart by logging in
  
 Scenario 2) Adding the specified product to the cart without user login
